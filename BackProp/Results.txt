@@ -1,0 +1,8 @@
+	I decided to use a network made up of 3 layers: input, hidden and output. The hidden layer
+was comprised of 12 nodes, which each accepted 64 inputs. The output layer consisted of 4 
+nodes, since the outputs (0-9) were represented in binary form (0000-1001). My weights were set
+to random values in the 0 to 1 range. 
+	I was not able to get my algorithm functioning, the error continues to stay at fixed level and 
+no ideal weights are found. I have a good understanding of backpropagation, and that my  
+code has a good structure and the proper steps; however, my algorithm outputs a 0% success rate. I
+was not able to determine which step in my program accounted for the poor performance. 

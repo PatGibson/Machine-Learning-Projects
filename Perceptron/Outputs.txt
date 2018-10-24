@@ -1,0 +1,56 @@
+Testing for perceptron: 
+
+Real Value: Iris-setosa	Predicted Value: Iris-Setosa
+Real Value: Iris-setosa	Predicted Value: Iris-Setosa
+Real Value: Iris-setosa	Predicted Value: Iris-Setosa
+Real Value: Iris-setosa	Predicted Value: Iris-Setosa
+Real Value: Iris-setosa	Predicted Value: Iris-Setosa
+Real Value: Iris-setosa	Predicted Value: Iris-Setosa
+Real Value: Iris-setosa	Predicted Value: Iris-Setosa
+Real Value: Iris-setosa	Predicted Value: Iris-Setosa
+Real Value: Iris-setosa	Predicted Value: Iris-Setosa
+Real Value: Iris-setosa	Predicted Value: Iris-Setosa
+Real Value: Iris-versicolor	Predicted Value: Not Setosa
+Real Value: Iris-versicolor	Predicted Value: Not Setosa
+Real Value: Iris-versicolor	Predicted Value: Not Setosa
+Real Value: Iris-versicolor	Predicted Value: Not Setosa
+Real Value: Iris-versicolor	Predicted Value: Not Setosa
+Real Value: Iris-versicolor	Predicted Value: Not Setosa
+Real Value: Iris-versicolor	Predicted Value: Not Setosa
+Real Value: Iris-versicolor	Predicted Value: Not Setosa
+Real Value: Iris-versicolor	Predicted Value: Not Setosa
+Real Value: Iris-versicolor	Predicted Value: Not Setosa
+Real Value: Iris-virginica	Predicted Value: Not Setosa
+Real Value: Iris-virginica	Predicted Value: Not Setosa
+Real Value: Iris-virginica	Predicted Value: Not Setosa
+Real Value: Iris-virginica	Predicted Value: Not Setosa
+Real Value: Iris-virginica	Predicted Value: Not Setosa
+Real Value: Iris-virginica	Predicted Value: Not Setosa
+Real Value: Iris-virginica	Predicted Value: Not Setosa
+Real Value: Iris-virginica	Predicted Value: Not Setosa
+Real Value: Iris-virginica	Predicted Value: Not Setosa
+Real Value: Iris-virginica	Predicted Value: Not Setosa
+
+
+Testing for error correction: 
+
+Real Value: Iris-versicolor	Predicted Value: Iris-Versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-Versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-Versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-Versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-Versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-Versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-Versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-Versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-Virginica
+Real Value: Iris-versicolor	Predicted Value: Iris-Versicolor
+Real Value: Iris-virginica	Predicted Value: Iris-Virginica
+Real Value: Iris-virginica	Predicted Value: Iris-Virginica
+Real Value: Iris-virginica	Predicted Value: Iris-Versicolor
+Real Value: Iris-virginica	Predicted Value: Iris-Virginica
+Real Value: Iris-virginica	Predicted Value: Iris-Versicolor
+Real Value: Iris-virginica	Predicted Value: Iris-Virginica
+Real Value: Iris-virginica	Predicted Value: Iris-Versicolor
+Real Value: Iris-virginica	Predicted Value: Iris-Versicolor
+Real Value: Iris-virginica	Predicted Value: Iris-Virginica
+Real Value: Iris-virginica	Predicted Value: Iris-Virginica
